@@ -1,9 +1,9 @@
 def add(a,b,c):
     return a+b+c
-def subtract(a,b+c):
+def subtract(a,b):
     return a-b-c
 def multiply(a,b):
-    return a*b
+    return a*b*c
 def divide(a,b):
     if b==0:
         raise ValueError("Division by zero is not allowed")
